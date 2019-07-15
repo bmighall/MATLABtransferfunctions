@@ -1,4 +1,4 @@
-# MATLAB Transfer Function Constants Calculator (Function and Implementation)
+# MATLAB Transfer Function Constants Calculator
 Creator: Ben Mighall
 
 This program is a MATLAB script that calculates the constants A, B and C with Beta and Zeta as parameters in a sum of transfer functions derived from the transfer function of the standard second order system with an additional pole. The transfer functions are A multiplied by the form of a standard second order system, B multiplied by the form of a standard first order system, and C multiplied by whatever is left over. 
